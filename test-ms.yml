@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: TEST-MS1
+
+
+welcome:
+  message: TEST MESSAGE FOR API
+    
