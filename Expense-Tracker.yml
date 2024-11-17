@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Expense-Tracker
+server:
+  port: 8071
+
+welcome:
+  message: TEST MESSAGE FOR API
